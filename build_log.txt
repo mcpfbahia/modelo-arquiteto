@@ -1,0 +1,18 @@
+
+> modelo-arquitetura@0.0.0 build
+> tsc -b && vite build
+
+src/components/About.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Footer.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Hero.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/HowItWorks.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Navbar.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/components/Portfolio.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Services.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Testimonials.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/WhatsAppButton.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Index.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Obrigado.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+error TS2688: Cannot find type definition file for 'node'.
+  The file is in the program because:
+    Entry point of type library 'node' specified in compilerOptions
