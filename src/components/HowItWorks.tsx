@@ -16,6 +16,11 @@ const steps = [
         number: "03",
         title: "Execução",
         description: "Entregamos todos os detalhamentos técnicos necessários para que sua obra comece com segurança."
+    },
+    {
+        number: "04",
+        title: "Entrega",
+        description: "Acompanhamos a finalização para garantir que o resultado supere todas as suas expectativas."
     }
 ];
 
@@ -32,7 +37,7 @@ export const HowItWorks = () => {
                     {/* Connection Line */}
                     <div className="hidden lg:block absolute top-1/2 left-0 w-full h-px bg-gray-100 -z-10" />
 
-                    <div className="grid md:grid-cols-3 gap-12">
+                    <div className="grid md:grid-cols-2 lg:grid-cols-4 gap-12">
                         {steps.map((step, index) => (
                             <motion.div
                                 key={index}
