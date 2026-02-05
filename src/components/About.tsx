@@ -15,7 +15,7 @@ export const About = () => {
                         <div className="absolute -top-10 -left-10 w-64 h-64 bg-secondary/5 -z-10 rounded-full" />
                         <div className="relative border-[20px] border-white shadow-2xl">
                             <img
-                                src="/src/assets/portfolio/facade.png"
+                                src="/assets/portfolio/facade.png"
                                 alt="Arquiteto Pro Office"
                                 className="w-full grayscale hover:grayscale-0 transition-all duration-700"
                             />

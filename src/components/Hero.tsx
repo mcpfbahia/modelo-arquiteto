@@ -62,7 +62,7 @@ export const Hero = () => {
 
                         <div className="relative h-[350px] md:h-[500px] lg:h-[600px] rounded-2xl overflow-hidden shadow-2xl border border-white/20">
                             <img
-                                src="/src/assets/portfolio/facade.png"
+                                src="/assets/portfolio/facade.png"
                                 alt="Luxury Architecture"
                                 className="w-full h-full object-cover hover:scale-105 transition-transform duration-700"
                             />

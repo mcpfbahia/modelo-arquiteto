@@ -5,25 +5,25 @@ const projects = [
     {
         title: "Residência Lauro de Freitas",
         category: "Arquitetura Residencial",
-        image: "/src/assets/portfolio/facade.png",
+        image: "/assets/portfolio/facade.png",
         className: "md:col-span-2 md:row-span-2"
     },
     {
         title: "Apartamento Vilas",
         category: "Design de Interiores",
-        image: "/src/assets/portfolio/kitchen.png",
+        image: "/assets/portfolio/kitchen.png",
         className: "md:col-span-2 md:row-span-1"
     },
     {
         title: "Suíte Master Clean",
         category: "Interiores",
-        image: "/src/assets/portfolio/bedroom.png",
+        image: "/assets/portfolio/bedroom.png",
         className: "md:col-span-1 md:row-span-1"
     },
     {
         title: "Área Gourmet & Pool",
         category: "Lazer",
-        image: "/src/assets/portfolio/pool.png",
+        image: "/assets/portfolio/pool.png",
         className: "md:col-span-1 md:row-span-1"
     }
 ];
